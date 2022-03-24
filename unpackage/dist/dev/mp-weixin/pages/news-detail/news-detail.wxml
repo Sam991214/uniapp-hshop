@@ -1,0 +1,1 @@
+<view class="news_detail"><text class="title">{{"标题:"+detail[id-1].title}}</text><view class="info"><text>{{"发表时间："+$root.f0}}</text><text>{{"浏览："+detail[id-1].click}}</text></view><view class="content">{{''+detail[id-1].zhaiyao+''}}</view></view>
